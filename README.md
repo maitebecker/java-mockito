@@ -8,7 +8,7 @@ Exemplos desenvolvidos durante o bootcamp de java da plataforma [DIO](https://we
 
 ## Configuração - Maven
 Adicionar no arquivo ```pom.xml``` as dependências abaixo:
-```
+```xml
 <!-- https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter -->
 <dependency>
     <groupId>org.mockito</groupId>
@@ -19,7 +19,7 @@ Adicionar no arquivo ```pom.xml``` as dependências abaixo:
 ```
 Fonte: https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter/5.12.0
 
-```
+```xml
 <!-- https://mvnrepository.com/artifact/org.mockito/mockito-core -->
 <dependency>
     <groupId>org.mockito</groupId>
